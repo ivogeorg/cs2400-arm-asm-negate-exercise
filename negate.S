@@ -9,4 +9,4 @@ loop
 		BNE		loop
 		END
 		
-data	DCD		1, -2, 5, -6, 2
+data		DCD		1, -2, 5, -6, 2
